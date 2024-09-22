@@ -1,3 +1,7 @@
 My Resolusi
 - Belajar Html, Css, JavaScript
-- Konsisten Belajar FrontEnd
+- Belajar GitGithub
+- Belajar Sass
+- Belajar Telwind
+- Belajar React
+- Konsisten Agar Setidaknya Bisa Membuat WebSedrhana
